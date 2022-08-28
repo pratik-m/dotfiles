@@ -36,7 +36,7 @@ set tabstop=4                              " set tab to 4 spaces
 set shiftwidth=4                           
 set softtabstop=4
 set expandtab                              " convert tab to spaces
-set lischars=tab:▸\ ,eol:¬                 " show specials chars as symbol 
+set listchars=tab:▸\ ,eol:¬                 " show specials chars as symbol 
 set pastetoggle=<leader>p                  " toggle between paste mode
 
 
