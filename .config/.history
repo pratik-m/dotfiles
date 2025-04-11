@@ -1,0 +1,2406 @@
+ls -ltr
+ubuntu-report 
+yes tsssndfla  dsflkjasdfksdafl; > test.txt
+yes tsssndfla  dsflkjasdfksdafl > test.txt
+ls -ltrh
+rm test.txt 
+find alacrity
+find alacritty
+cd .config/
+ls -ltr | grep ala
+mkdir alacritty
+touch alacritty/alacritty.toml
+nvim ~/.bashrc 
+nvim alacritty/alacritty.toml 
+nvim ~/.config/alacritty/alacritty.toml 
+nvim .zcompdump
+vi .bash_history 
+vi ~/.bashrc 
+source ~/.bashrc 
+ls -ltra
+ls -ltra | grep ^\.
+man yes
+seq 1 10
+cd work
+mv Tools/ tools/
+cd
+nvim work/tools/VarianceValidator/
+curl -LO --output-dir ~/.config/alacritty https://github.com/catppuccin/alacritty/raw/main/catppuccin-macchiato.toml
+vi .config/alacritty/alacritty.toml 
+ls -ltr
+z
+zsh
+man xzcat
+reboot now
+sudo reboot now
+neofetch
+mkdir personal/projects/sp_parser
+ls
+xrandr -q | grep " connected"
+xrandr --output HDMI-1 --brightness 0.5
+xrandr --output DP-2 --brightness 0.5
+xrandr --verbose --current | grep ^"$MON" 
+xrandr --verbose --current | grep ^"$MON" -A5
+xrandr --verbose --current | grep ^"$MON" -A5 | tail -n1
+xrandr --verbose --current | grep ^"HDMI-1" -A5 | tail -n1
+xrandr --output DP-2 --brightness 0.1
+sudo add-apt-repository ppa:rockowitz/ddcutil
+sudo apt update
+sudo apt install ddcui ddcutil
+rofi -g
+rofi -show combi -combi-modes "run,filebrowser"
+rofi -show combi -combi-modes "filebrowser"
+xrandr -q | grep " connected"
+xrandr --output HDMI-1 --brightness 0.5
+xrandr --output DP-2 --brightness 0.5
+xrandr --verbose --current | grep ^"$MON" 
+xrandr --verbose --current | grep ^"$MON" -A5
+xrandr --verbose --current | grep ^"$MON" -A5 | tail -n1
+xrandr --verbose --current | grep ^"HDMI-1" -A5 | tail -n1
+xrandr --output DP-2 --brightness 0.1
+sudo add-apt-repository ppa:rockowitz/ddcutil
+sudo apt update
+sudo apt install ddcui ddcutil
+ls 
+cd personal/
+git clone https://github.com/apache/airflow.git .
+git clone https://github.com/apache/airflow.git 
+git grep skip_archive
+nvim airflow/utils/db_cleanup.py 
+g
+fg
+sudo apt install openssl sqlite default-libmysqlclient-dev libmysqlclient-dev postgresql
+ps aux | grep post
+pg_ctlcluster 
+pg_ctlcluster -p 5432
+pg_ctlcluster stop
+man pg_ctlclust
+man pg_ctlcluster
+pg_ctlcluster stop 16 main 
+sudo pg_ctlcluster stop 16 main 
+pg_lsclusters 
+htop
+git clone https://github.com/pratik-m/airflow.git
+pipx
+pipx --version
+cd airflow/
+pipx install -e ./dev/breeze/
+breeze setup autocomplete
+source /home/pratik/.bash_completion
+nvim /home/pratik/.bash_completion
+breeze --python 3.8 --backend postgres
+cd ..
+rm -rf airflow/
+pipx list
+pipx -h
+pipx uninstall breeze
+ls -ltr
+nvim
+hatch
+pipx install hatch
+hatch python 3.12
+hatch python install 3.12
+hatch env show
+pip install -e ".[devel]"
+hatch -e airflow-312 shell
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pip install -e ".[devel]"
+airflow db shell
+pip install pre-commit
+https://github.com/pratik-m/airflow.git
+pre-commit install
+history
+:ls
+ls
+history | tail
+ps aux | grep edge
+pkill msedge
+nvim
+ls -ltr
+cd personal/
+ls -tlr
+cd projects/
+ll
+nvim ~/.bashrc 
+ll 
+git clone https://github.com/pratik-m/airflow.git 
+nvim airflow/
+tmux
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+ls
+grep skip_archive
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+ls
+grep skip_archive
+kill -9 2752
+sudi kill -9 2752
+sudo kill -9 2752
+ps aux | grep ollama
+pgrep
+pgrep ollama
+kill -9 $(pgrep ollama)
+sudi kill -9 $(pgrep ollama)
+sudo  kill -9 $(pgrep ollama)
+htop
+exit
+ls
+grep skip_archive
+cd airflow/
+cd..
+ls -ltr
+cd personal/projects/airflow/
+nvim .
+tmxu
+tmux
+sudi kill -9 $(pgrep ollama)
+sudo  kill -9 $(pgrep ollama)
+htop
+exit
+nvim ~/.config/nvim/
+sudo return {
+sudo apt install lazygit
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')
+curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"
+tar xf lazygit.tar.gz lazygit
+sudo install lazygit /usr/local/bin
+lazygit --version
+nvim ~/personal/projects/airflow/
+tmux
+htop
+nvim ~/.bashrc
+nvim ~/.bashrc
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+airflow db shell
+exot
+exit
+grep skip_archive
+nvim 
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+nvim .
+pre-commit install
+history
+:ls
+ls
+history | tail
+ps aux | grep edge
+pkill msedge
+nvim
+ls -ltr
+cd personal/
+ls -tlr
+cd projects/
+ll
+nvim ~/.bashrc 
+ll 
+git clone https://github.com/pratik-m/airflow.git 
+nvim airflow/
+tmux
+ls
+grep skip_archive
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pip install SQLAlchemy
+airflow -h
+airflow db clean --dry-run -v -t log
+airflow db clean --dry-run -v -t log --clean-before-timestamp 2022-01-01 00:00:00+01:00
+airflow cheat-sheet
+airflow cheat-sheet | grep airflow config
+airflow db init
+airfloiw connections create-default-connections
+airflow connections create-default-connections
+airflow db init -h
+airflow db init -v
+airflow db clean --dry-run -v -t log --clean-before-timestamp '2022-01-01 00:00:00+01:00'
+airflow cheat-sheet | grep "airflow db"
+airflow db clean -h
+[A
+airflow db clean -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00'
+airflow db clean --dry-run -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00'
+airflow db clean --dry-run -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00' --skip-archive
+airflow db clean --dry-run -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00' 
+airflow db shell
+airflow db clean -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00' --skip-archive
+airflow db clean -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00' 
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+nvim ~/personal/projects/airflow/
+pipx list
+pipx -h
+pipx uninstall breeze
+ls -ltr
+nvim
+hatch
+pipx install hatch
+hatch python 3.12
+hatch python install 3.12
+hatch env show
+pip install -e ".[devel]"
+hatch -e airflow-312 shell
+pip install -e ".[devel]"
+pip install pre-commit
+https://github.com/pratik-m/airflow.git
+pre-commit install
+history
+:ls
+ls
+history | tail
+ps aux | grep edge
+pkill msedge
+nvim
+ls -ltr
+cd personal/
+ls -tlr
+cd projects/
+ll
+nvim ~/.bashrc 
+ll 
+git clone https://github.com/pratik-m/airflow.git 
+nvim airflow/
+tmux
+ls
+grep skip_archive
+ls
+grep skip_archive
+kill -9 2752
+sudi kill -9 2752
+sudo kill -9 2752
+ps aux | grep ollama
+pgrep
+pgrep ollama
+kill -9 $(pgrep ollama)
+sudi kill -9 $(pgrep ollama)
+sudo  kill -9 $(pgrep ollama)
+htop
+exit
+ls
+grep skip_archive
+cd airflow/
+cd..
+ls -ltr
+nvim .
+tmxu
+tmux
+sudi kill -9 $(pgrep ollama)
+sudo  kill -9 $(pgrep ollama)
+htop
+exit
+nvim ~/.config/nvim/
+sudo return {
+sudo apt install lazygit
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')
+curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"
+tar xf lazygit.tar.gz lazygit
+sudo install lazygit /usr/local/bin
+lazygit --version
+nvim ~/personal/projects/airflow/
+tmux
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pwd
+cd personal/projects/airflow/
+ls -ltr ~/.bash_history 
+ls -ltrh ~/.bash_history 
+ls -ltrh ~/.config/.history 
+batcat /home/pratik/.config/.history
+airflow db clean -h
+airflow db clean --dry-run -t dag -v 
+git stauts
+git add airflow/utils/db_cleanup.py 
+pre-commit run
+pre-commit run mypy-airflow
+SKIP_BREEZE_PRE_COMMITS=true pre-commit run
+git commit -m "refactored `_do_delete` separating archival and deletion #42003"
+pytest tests/ --run-db-tests-only
+nvim /home/pratik/personal/projects/airflow/tests/warnings.txt
+pytest tests/test_db_cleanup.py -k 'test_run_cleanup_dry_run'
+pytest tests/utils/test_db_cleanup.py -k 'test_run_cleanup_dry_run'
+clear
+airflow db clean --dry-run -t dag -v --clean-before-timestamp '2022-01-01 00:00:00'
+airflow db shell
+diff airflow/utils/db_cleanup.py 
+git diff airflow/utils/db_cleanup.py 
+export SKIP_BREEZE_PRE_COMMITS=true
+git commit -m "refactored `_build_query` to handle deletes for `DagRun` correctly  #42003"
+airflow db clean --dry-run -t dag_run -v --clean-before-timestamp '2022-01-01 
+airflow db clean --dry-run -t dag_run -v --clean-before-timestamp '2022-01-01 00:00:00;
+pytest tests/utils/test_db_cleanup.py -k 'test__build_query'
+git bisect bad
+git log
+git bisect good 8ad70746be
+git bisect bad 8ad70746be
+git bisect start
+git bisect bad 
+git bisect good ec49887a56 
+git log --oneline 
+git bisect reset ec49887a56
+git bisect reset
+git bisect reset HEAD
+git checkout fix-skip-archive-db 
+git stash list
+git stash apply
+git restore --staged airflow/utils/db_cleanup.py 
+git log --oneline
+git rev-parse HEAD
+git stash pop
+git stash apply --index
+git stash push --include-untracked
+git stash drop
+git commit -m "typo fix"
+airflow db clean --dry-run -t dag_run -v --clean-before-timestamp '2022-01-01 00:00:00'
+pytest tests/test_db_cleanup.py
+git add -- tests/utils/test_db_cleanup.py 
+git commit -m "mocked return value"
+git diff
+nvim ~/.python_history
+python
+git commit -m "mocking return values"
+pytest tests/utils/test_db_cleanup.py -k 'test__skip_archive'
+git status
+git commit -m "not exists correction"
+git commit -m "format"
+git commit -m "return variable:
+git commit -m "return variable"
+pytest tests/utils/test_db_cleanup.py 
+tmux
+pytest tests/utils/test_db_cleanup.py 
+tmux
+sudo  kill -9 $(pgrep ollama)
+htop
+pgrep ollama
+sudo kill -9 12737
+sudo kill -9 12822
+ps aux | grep ollama
+systemctl stop ollama.service 
+systemctl disable ollama.service 
+systemctl status ollama.service 
+ps aux | grep ollama
+pgrep ollama
+gpustats --show-cmd --show-pid
+gpustat --show-cmd --show-pid
+history -t 5
+history -tail 5
+history  | tail 5
+history  | tail 
+history  | tail 10
+history  | tail -10
+history  | tail -20
+htop
+history  | tail 
+history  | tail 10
+history  | tail -10
+history  | tail -20
+nvim ~/.config/tmux/tmux.conf 
+nvim ~/.config/tmux/plugins/tmux-yank/yank.tmux 
+ollama serve
+pgrep ollama
+systemctl start  ollama.service 
+ollama list
+ollama run llama3.2:1B
+ollama run llama3.2:1b
+ollama
+systemctl stop ollama.service 
+htop
+gsettings list-recursively 
+gsettings list-recursively | grep '<super>
+'
+gsettings list-recursively | grep '<super>
+'
+gsettings list-recursively | grep '<super>'
+gsettings list-recursively | grep '<Super>KP'
+gsettings list-recursively | grep '<Super>'
+gsettings list-recursively | grep '<Super>' | grep extensions
+exit
+python
+exit
+ls -ltr
+cd tmp
+mkdir tmp
+cd tmp/
+git clone https://github.com/sqlalchemy/sqlalchemy.git 
+git clone https://github.com/sqlalchemy/sqlalchemy.git --single-branch  
+ls 
+nvim sqlalchemy/
+exit
+git 
+git -
+cd ~
+ls -ltr
+cd personal/projects/til/
+git status
+git push
+cd Downloads/duckdb_cli-linux-amd64/
+./duckdb 
+./duckdb -c "select * from 'Variance Analysis.csv'
+;
+./duckdb -c "select * from 'Variance Analysis.csv'"
+./duckdb -c "select * from 'Variance Analysis.csv' limit 10"
+./duckdb -c "select * from 'Variance Analysis.csv' where 'Analysis Comments' like '%developer%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where 'Analysis Comments' like '%duplicates%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where Domain like '%Merch%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where `BOD Name` like '%Merch%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where 'BOD Name' like '%Merch%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where BOD Name like '%Merch%'"
+./duckdb -c "select * from 'Variance Analysis.csv' where \"BOD Name\" like '%Merch%'"
+nvim ~/.config/nvim/
+exit
+git commit -m "typo fix"
+airflow db clean --dry-run -t dag_run -v --clean-before-timestamp '2022-01-01 00:00:00'
+pytest tests/test_db_cleanup.py
+git add -- tests/utils/test_db_cleanup.py 
+git commit -m "mocked return value"
+git diff
+nvim ~/.python_history
+git commit -m "mocking return values"
+pytest tests/utils/test_db_cleanup.py -k 'test__skip_archive'
+git commit -m "not exists correction"
+git commit -m "format"
+git commit -m "return variable:
+git commit -m "return variable"
+tmux
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+cd personal/projects/airflow/
+cat airflow/utils/db_cleanup.py 
+cat airflow/utils/db_cleanup.py | xclip -sel clip
+git remote add upsteam https://github.com/apache/airflow
+git remote add upstream https://github.com/apache/airflow
+git push --set-upstream origin fix-skip-archive-db
+git remote -v
+git config
+git config get-all
+git config list
+git fetch upstream
+git checkout main
+git merge upstream/main
+git checkout fix-skip-archive-db 
+git merge origin/main
+airflow db clean -v -t dag --clean-before-timestamp '2022-01-01 00:00:00+01:00' --skip-archive
+pytest tests/utils/test_db_cleanup.py 
+git diff airflow/utils/db_cleanup.py
+git merge --continue
+export SKIP_BREEZE_PRE_COMMITS=true git merge --continue
+export SKIP_BREEZE_PRE_COMMITS=true; git merge --continue
+git push 
+git push origin fix-skip-archive-db
+python 
+ruff airflow/utils/db_cleanup.py 
+ruff check airflow/utils/db_cleanup.py 
+python
+git status
+git commit -m "import corrected"
+git push origin fix-skip-archive-db 
+git config --global credential.helper storel
+pyright
+hatch -h
+hatch python -h
+hatch python update
+hatch python update -h
+hatch python update all
+ls req*
+grep req
+airflow db clean --dry-run -v -t dag_run --clean-before-timestamp '2022-01-01 00:00:00+01:00' --skip-archive
+exit
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+nvim ~/personal/projects/airflow/
+exit
+htop
+cd tmp/
+nvim sqlalchemy/
+lspinfo
+lspinfexito
+exit
+tmux ls
+tmux a
+exit
+/bin/python3.12 /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+/bin/python3.12 /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+servicectl
+systemctl
+systemctl  | grep postgres
+systemctl stop postgresql.service 
+systemctl stop system-postgresql.slice 
+systemctl | grep postgres
+zsh
+exit
+zsh
+exit
+fsh
+fish
+git config --global core.editor "nvim"
+vi ~/.bashrc
+vi ~/.bash_aliases 
+source ~/.bash_aliases 
+vi
+zsh
+exit
+sudo apt-get install fonts-crosextra-carlito fonts-crosextra-caladea
+cd personal/projects/til/
+ls -ltr
+cd miscellaneous/
+ls 
+batcat multi-word-highlighter-chrome.md 
+nvim multi-word-highlighter-chrome.md 
+gunzip
+cd Downloads/
+gunzip internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_5_20240928050124_000000000000.dat.gz 
+ls -ltr | grep OSPI
+gunzip internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_5_20240929050127_000000000000.dat.gz
+zsh
+nvim ~/.config/nvim
+tmux
+cd personal/projects/airflow/
+ls -ltr
+nvim airflow/utils/db_cleanup.py 
+git status
+nvim ~/.config/nvim
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+tmux
+nvim ~/.config/nvim
+cd personal/projects/airflow/
+nvim . 
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+nvim
+fgf
+fg
+cd miscellaneous/
+ls 
+batcat multi-word-highlighter-chrome.md 
+nvim multi-word-highlighter-chrome.md 
+gunzip
+cd Downloads/
+gunzip internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_5_20240928050124_000000000000.dat.gz 
+ls -ltr | grep OSPI
+gunzip internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_5_20240929050127_000000000000.dat.gz
+zsh
+nvim ~/.config/nvim
+tmux
+cd personal/projects/airflow/
+ls -ltr
+nvim ~/.config/nvim
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+git commit -m "adding test cases for delete and select stmts"
+ls -ltr /home/pratik/personal/projects/airflow/airflow/providers/*
+export SKIP_BREEZE_PRE_COMMITS=true
+SKIP=check-providers-subpackages-init-file-exist git commit -m "adding test cases for delete and select stmts"
+git diff tests/utils/test_db_cleanup.py
+nvim
+pytest tests/utils/test_db_cleanup.py -k 'test__build_query'
+SKIP=check-providers-subpackages-init-file-exist git commit -m "format"
+git log --oneline
+git log --oneline --author=pratik-m
+git log --oneline --author=munotpratik2009
+git stauts
+git config --global credential.helper store
+lg
+lazygit
+git push origin fix-skip-archive-db 
+git push --force origin fix-skip-archive-db 
+nvim airflow/utils/db_cleanup.py 
+git status
+git log --oneline --author=munotpratik2009@gmail.com
+git log e26b714c4b 
+vi ~/.config/alacritty/alacritty.toml 
+ls -lt
+nvim personal/projects/airflow/airflow/utils/db_cleanup.py 
+hatch -h
+hatch python -h
+hatch python update
+hatch python update -h
+hatch python update all
+ls req*
+grep req
+airflow db clean --dry-run -v -t dag_run --clean-before-timestamp '2022-01-01 00:00:00+01:00' --skip-archive
+exit
+nvim ~/personal/projects/airflow/
+exit
+htop
+cd tmp/
+nvim sqlalchemy/
+lspinfo
+lspinfexito
+exit
+tmux ls
+tmux a
+exit
+/bin/python3.12 /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+/bin/python3.12 /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+servicectl
+systemctl
+systemctl  | grep postgres
+systemctl stop postgresql.service 
+systemctl stop system-postgresql.slice 
+systemctl | grep postgres
+zsh
+exit
+zsh
+exit
+fsh
+fish
+git config --global core.editor "nvim"
+vi ~/.bashrc
+vi ~/.bash_aliases 
+source ~/.bash_aliases 
+vi
+zsh
+exit
+sudo apt-get install fonts-crosextra-carlito fonts-crosextra-caladea
+cd personal/projects/til/
+cd miscellaneous/
+ls 
+batcat multi-word-highlighter-chrome.md 
+nvim multi-word-highlighter-chrome.md 
+cd personal/
+ls -ltr
+cd projects/
+ls -ltr 
+cd airflow/
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+mypy  airflow/utils/db_cleanup.py 
+git log airflow/utils/db_cleanup.py 
+git log airflow/utils/db_cleanup.py --oneline
+git log --onelin airflow/utils/db_cleanup.py 
+git log --oneline airflow/utils/db_cleanup.py 
+history | grep 10
+history | tail 10
+history | tail -10
+history | tail -20
+nvim  airflow/utils/db_cleanup.py 
+git log
+git merge origin/master
+git merge origin/maim
+git merge origin/main
+git status --oneline 
+git log --oneline 
+git checkout mian
+git rebase main
+nvim tests/utils/test_db_cleanup.py 
+git rebase --continue 
+git commit -m "merge conflict"
+git stauts
+git status 
+git restore --staged airflow/utils/db_cleanup.py 
+git rebase --abort
+lazygit
+git add airflow/utils/db_cleanup.py 
+git rebase --continue
+git fetch origin
+git reset --hard origin/fix-skip-archive-db 
+git log --oneline --decorate
+git checkout main
+git log --oneline
+git fetch upstream
+git merge upstream/main
+git checkout fix-skip-archive-db 
+git merge origin/main 
+git status
+nvim .
+nvim airflow/utils/db_cleanup.py 
+tmux
+tmux -a
+tmux -l
+tmux kill-session 
+tmux ls
+pgrep msedge
+pgrep msedge | kill -9 
+kill -9 $(pgrep msedge )
+top
+htop
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+tmux -l
+tmux kill-session 
+tmux ls
+pgrep msedge
+pgrep msedge | kill -9 
+kill -9 $(pgrep msedge )
+top
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pytest tests/
+airflow db init
+airflow db shell
+pytest tests/utils/test_db_cleanup.py 
+curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+z ~/personal/projects/airflow/
+man zoxide
+vi ~/.bashrc
+source ~/.bashrc
+z 
+z - 
+cd ..
+z ~/personal/projects/til/
+htop
+nvim ~/.config/alacritty/alacritty.toml 
+z til
+sudo apt install exa
+sudo apt install eza
+eza -1
+eza -G
+eza 
+eza -l
+eza -lx
+eza -lm
+eza -lmt
+eza -lmU
+ls -ltr
+man ls
+ls -ltr --color
+ls -ltr --color=always
+clear
+z airflow
+git log --oneline -- airflow/utils
+exit
+tmux
+pgrep msedge
+pgrep msedge | kill -9 
+kill -9 $(pgrep msedge )
+top
+htop
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+cd personal/projects/airflow/
+git checkout main
+fg
+fish
+fsh
+git checkout main 
+git fetch upstream
+git merge upstream/main
+git checkout -b fix-update-recency-column
+git status
+nvim -h
+nvim -v
+sudo apt install nvim
+sudo apt update
+sudo apt install neovim
+nvim
+htop
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+cd personal/
+ls -ltr
+cd projects/
+mkdir google-vertex-demo
+cd ?1
+cd google-vertex-demo/
+uv
+uv venv
+source .venv/bin/activate
+uv pip install google-cloud-aiplatform
+z airflow
+cd airflow/utils/
+for f in *.py; do mv -- "$f ~/tmp/"${f%.py}.txt"
+done
+
+for f in *.py; do mv -- "$f ~/tmp/"${f%.py}.txt" done
+for f in *.py; do mv -- "$f ~/tmp/${f%.py}.txt" done
+for f in *.py; do mv -- "$f" "~/tmp/${f%.py}.txt" done
+for f in *.py; do cp "$f" "~/tmp/${f%.py}.txt" done; 
+mkdir ~/tmp
+for f in *.py; do cp "$f" "~/tmp/${f%.py}.txt"; done; 
+ls ~
+sudo for f in *.py; do cp -f "$f" "~/tmp/${f%.py}.txt"; done; 
+for f in *.py; do cp -f "$f" "~/tmp/${f%.py}.txt"; done; 
+for f in *.py; do cp -f "$f" "~/tmp/$f"; done; 
+clear
+zsh
+nvim ~/.config/nvim/lua/p/core/options.lua 
+exit
+nvim ~/.config/nvim/lua/p/core/options.lua 
+ls  ~/.config/nvim/lua/
+ls  ~/.config/nvim/lua/p/plugins/
+nvim ~/.config/nvim/lua/
+exit
+kj
+exit
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pytest tests/utils/test_db_cleanup.py 
+vi ~/.config/nvim
+exit
+cd Downloads/
+ls -ltr 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=06_BalducciPOSExportFoodStorm20241006040933.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year\=2024_month\=10_date\=06_KingPOSExportFoodStorm20241006040336.csv 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=06_KingPOSExportFoodStorm20241006040336.csv
+cd Downloads/
+ls -ltr
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_KingPOSExportFoodStorm20241007040348.csv
+exit
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pytest tests/utils/test_db_cleanup.py 
+vi ~/.config/nvim
+exit
+ls -ltr 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=06_BalducciPOSExportFoodStorm20241006040933.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year\=2024_month\=10_date\=06_KingPOSExportFoodStorm20241006040336.csv 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=06_KingPOSExportFoodStorm20241006040336.csv
+ls -ltr
+cd Downloads/
+gzip -d internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+wl -c internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat
+ls -ltr | tail 
+gunzip internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+wc -l internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat
+nvim internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_KingPOSExportFoodStorm20241007040348.csv
+man batcat
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_BalducciPOSExportFoodStorm20241007040944.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_BalducciPOSExportFoodStorm20241007040944.csv -r 40:48
+ls -ltrh | tail 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_KingPOSExportFoodStorm20241008040538.csv
+cat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv | grep '^.*[^,]$'
+ls -ltr | grep BalducciPOSExportFoodStorm20241008040115.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv
+vi ~/.bash_aliases 
+sudo apt install zenity
+cd 
+cd /home/pratik/Downloads/Evolve-v1.6-FIX1/Evolve-v1.6
+sh ./install.sh 
+man grep
+ls -ltrh | tail 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_KingPOSExportFoodStorm20241008040538.csv
+cat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv | grep '^.*[^,]$'
+ls -ltr | grep BalducciPOSExportFoodStorm20241008040115.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv
+vi ~/.bash_aliases 
+sudo apt install zenity
+cd /home/pratik/Downloads/Evolve-v1.6-FIX1/Evolve-v1.6
+sh ./install.sh 
+cd Downloads/
+ls -ltr | tail 
+cd dags
+man grep
+grep -R 'gcp-abs-udco-bq-prod-prj-01' . 
+vi ./acct/prod_output/InvoiceEntry/scripts/sql/SP_GETINVOICEENTRY_CABS_TO_FLAT_LOAD.sql 
+grep -R 'gcp-abs-udco-bq-prod-prj-01' .  | wl -c
+grep -R 'gcp-abs-udco-bq-prod-prj-01' .  | wc -l
+grep -R --exclude="*.sql" 'gcp-abs-udco-bq-prod-prj-01' .  | wc -l
+grep -R --exclude="*.sql" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql|params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude="*.param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude="param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude=".*param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R -exclude="*.sql" -e="*param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R -exclude="*.sql" -e="*param_prod.json" -- 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R -exclude="*.sql"  'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R -exclude="*.sql" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude-from="param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude=".*/param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude="*param_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -Rc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -RTc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -Rlc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | wc -l
+grep -Rc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | grep -v ':0'
+mkdir ~/work/tmp
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' . > ~/work/tmp/composer_files_with_bq_prod_project.txt
+grep -Rc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' . > ~/work/tmp/composer_files_with_bq_prod_project.txt
+grep -Rc --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | grep -v ':0' > ~/work/tmp/composer_files_with_bq_prod_project.txt
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' . >> ~/work/tmp/composer_files_with_bq_prod_project.txt
+nvim ~/work/tmp/composer_files_with_bq_prod_project.txt
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | grep 'flmt'
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | grep 'flmt' | grep -v 'KafkaToBQ'
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  | grep 'flmt' | grep -v 'Kafka'
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka' | g
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -vl 'Kafka' 
+grep -R --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -lv 'Kafka' 
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka' 
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | wl -c
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | wc -l
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | cut -d'.'
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | cut -d'.' -f2
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | cut -d'.' -f3
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  | cut -d'.' -f3 | sort | uniq -c
+grep -lR --exclude="*.sql" --exclude="*params_prod.json" 'gcp-abs-udco-bq-prod-prj-01' .  |  grep -v 'Kafka'  
+cd 
+ls -ltr
+ls -ltr .themes/
+nvim internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_KingPOSExportFoodStorm20241007040348.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_BalducciPOSExportFoodStorm20241007040944.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_archive_year=2024_month=10_date=08_BalducciPOSExportFoodStorm20241007040944.csv -r 40:48
+ls -ltrh | tail 
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_KingPOSExportFoodStorm20241008040538.csv
+cat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv | grep '^.*[^,]$'
+ls -ltr | grep BalducciPOSExportFoodStorm20241008040115.csv
+batcat external_udco-loyl_inbound_Foodstorm_tokenizeout_input_BalducciPOSExportFoodStorm20241008040115.csv
+vi ~/.bash_aliases 
+cd Downloads/
+less +100487 internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat
+less +100487 internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat | batcat
+man batcat
+batcat --show-all -r 100480:100490 internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat | batcat
+gzip -d OSPI_ITEM_17_20241009064711_000000000000.dat.gz
+ls -ltrh  | tail 
+gzip -d OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+gunzip OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+mv OSPI_ITEM_17_20241007050141_000000000000.dat.gz str_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+mv internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000 gcs_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+mv internal_udco-spex_outbound_grubhub_archive_OSPI_ITEM_17_20241007050141_000000000000.dat.gz gcs_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+ls -ltrh | tail
+ls -ltrh | grep 20241007050141
+gzip -d str_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+gzip -d gcs_OSPI_ITEM_17_20241007050141_000000000000.dat.gz
+gzip -d str_OSPI_ITEM_17_20241007050141_000000000000.dat.gzl
+cd
+cd nex/
+cd apps/
+cd Evolve/
+ls -ltr
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+cd Evolve/
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+cd Downloads/
+kitten icat Screenshot_9-10-2024_10438_www.costco.com.jpeg
+ls -ltr
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+# Create symbolic links to add kitty and kitten to PATH (assuming ~/.local/bin is in
+# your system-wide PATH)
+ln -sf ~/.local/kitty.app/bin/kitty ~/.local/kitty.app/bin/kitten ~/.local/bin/
+# Place the kitty.desktop file somewhere it can be found by the OS
+cp ~/.local/kitty.app/share/applications/kitty.desktop ~/.local/share/applications/
+# If you want to open text files and images in kitty via your file manager also add the kitty-open.desktop file
+cp ~/.local/kitty.app/share/applications/kitty-open.desktop ~/.local/share/applications/
+# Update the paths to the kitty and its icon in the kitty desktop file(s)
+sed -i "s|Icon=kitty|Icon=$(readlink -f ~)/.local/kitty.app/share/icons/hicolor/256x256/apps/kitty.png|g" ~/.local/share/applications/kitty*.desktop
+sed -i "s|Exec=kitty|Exec=$(readlink -f ~)/.local/kitty.app/bin/kitty|g" ~/.local/share/applications/kitty*.desktop
+# Make xdg-terminal-exec (and hence desktop environments that support it use kitty)
+echo 'kitty.desktop' > ~/.config/xdg-terminals.list
+man notify-send
+notify-send "hi"
+neofetch
+sudo vi /etc/bluetooth/main.conf
+sudo /etc/init.d/bluetooth restart
+man dmenu 
+man rofi
+man rofi
+ls -ltr
+zip -r z.zip tmp nex extensions
+zip -r z.zip tmp extensions
+man zip
+zip -sf z.zip 
+zip -l z.zip 
+exit
+cd Downloads/
+ls -ltr
+cat dag_list.json | jq '.select(.has_file_operation == true)'
+cat dag_list.json | jq '.select(.has_file_operation == "true")'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == "true")'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true)'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true | .dag_name)'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | wc -l
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr \"
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr '"'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr 
+man tr
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \"
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+cat dag_list 1.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+cat "dag_list 1.json" | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+ls -ltr | tail 
+cat bquxjob_165efda1_19292254afe.csv | xclip -sel clip
+(type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) 	&& sudo mkdir -p -m 755 /etc/apt/keyrings 	&& wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null 	&& sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg 	&& echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null 	&& sudo apt update 	&& sudo apt install gh -y
+man gh
+cd Downloads/
+ls -ltr |tail
+cat bquxjob_3a62c0a7_192925f2ccf.csv | xclip -sel clip
+man git
+man git-fetch
+man git-tag
+man git-commit
+man git-checkout
+man git-add
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+man rofi
+man git-checkout
+man git-add
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+rofi man
+man rofi-run
+nvim ~/bin/rofi-run 
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+rofi man
+man rofi-run
+nvim ~/bin/rofi-run 
+cd Downloads/
+gzip -d external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022111500.dat.gz
+ls -ltr | tail -5
+alacritty migrate
+gzip -d external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+gunzip <  external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz > tmp
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz | batcat
+gunzip external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+ls -ltr | tail -3
+gunzip FDFR_albOutPurchaseOrder20241022123000.dat.gz
+batcat
+batcat
+cd Downloads/
+gzip -d FDFR_albOutPurchaseOrder20241022114500.dat.gz
+ls -ltr | tail -5
+gzip -d FDFR_albOutPurchaseOrder20241022121500.dat.gz
+gzip -d FDFR_albOutPurchaseOrder20241022121500.dat.gz
+cd Downloads/
+ls -ltr | tail -5
+nvim FDFR_albOutPurchaseOrder20241022114500.dat
+batcat FDFR_albOutPurchaseOrder20241022114500.dat
+man batcat | batcat --plain --language=help
+man batcat
+gunzip external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+ls -ltr | tail -3
+gunzip FDFR_albOutPurchaseOrder20241022123000.dat.gz
+batcat
+batcat
+gzip -d FDFR_albOutPurchaseOrder20241022114500.dat.gz
+ls -ltr | tail -5
+gzip -d FDFR_albOutPurchaseOrder20241022121500.dat.gz
+gzip -d FDFR_albOutPurchaseOrder20241022121500.dat.gz
+ls -ltr | tail -5
+nvim FDFR_albOutPurchaseOrder20241022114500.dat
+batcat FDFR_albOutPurchaseOrder20241022114500.dat
+man batcat | batcat --plain --language=help
+man batcat
+cd Downloads/
+ls -ltr | tail 
+batcat FDFR_albOutPurchaseOrder20241022121500.dat -l tsv
+bat FDFR_albOutPurchaseOrder20241022121500.dat -l csv
+batcat FDFR_albOutPurchaseOrder20241022121500.dat -l csv
+cat FDFR_albOutPurchaseOrder20241022121500.dat |batcat -l csv
+cd ~/personal/projects/
+git clone https://github.com/pratik-m/bat.git .
+git clone https://github.com/pratik-m/bat.git 
+cd bat/
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+cargo install --locked bat
+cargo install --locked --force bat
+echo 'asd|asd|asd' | /home/pratik/.cargo/bin/bat -l tsv
+echo 'asd|asd|asd' | /home/pratik/.cargo/bin/bat -l csv
+echo 'asd,asd,asd' | /home/pratik/.cargo/bin/bat -l csv
+echo 'asd,asd;asd' | /home/pratik/.cargo/bin/bat -l csv
+echo 'asd,asd;asd|asd' | /home/pratik/.cargo/bin/bat -l csv
+echo 'asd,asd;asd\tasd' | /home/pratik/.cargo/bin/bat -l csv
+ls build/
+bat cache --build
+cargo build --bins
+cargo test
+cargo install --path . --locked
+echo -e 'asd,asd;asd\tasd' | batcat  -l csv
+echo -e 'asd,asd;asd\tasd|asd' | batcat  -l csv
+nvim
+fg
+batcat cache --clear
+batcat cache --build
+echo -e 'asd,asd;asd\tasd' | /home/pratik/.cargo/bin/bat -l csv
+echo -e 'asd,asd;asd\tasd|SASD' | batcat -l csv
+sh assets/create.sh 
+vi assets/create.sh 
+./assets/create.sh 
+echo -e 'asd,asd;asd\tasd|SASD' | /home/pratik/.cargo/bin/bat -l csv
+nvim assets/syntaxes/02_Extra/syntax_test_csv.csv 
+nvim assets/syntaxes/02_Extra/syntax_test_tsv.tsv 
+echo -e 'asd,asd;asd\tasd|SASD' | /home/pratik/.cargo/bin/bat -l psv
+echo -e 'asd,asd;asd\tasd|SASD' |  -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l tsv
+nvim assets/syntaxes/02_Extra/CSV.sublime-syntax 
+ls -ltr
+ls target
+echo -e 'asd,asd;asd\tasd|SASD' |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l tsv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat 
+./assets/create.sh 
+echo -e 'asd,asd;asd\tasd|SASD' | /home/pratik/.cargo/bin/bat -l csv
+nvim assets/syntaxes/02_Extra/syntax_test_csv.csv 
+nvim assets/syntaxes/02_Extra/syntax_test_tsv.tsv 
+echo -e 'asd,asd;asd\tasd|SASD' | /home/pratik/.cargo/bin/bat -l psv
+echo -e 'asd,asd;asd\tasd|SASD' |  -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l tsv
+ls target
+echo -e 'asd,asd;asd\tasd|SASD' |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l tsv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat 
+column -ts $'\t' -o $'\t' notes.tsv | bat -l tsv --wrap never --tabs 0
+column -ts $'\t' -o $'\t' 
+echo "asd|asd" | bat -l csv
+echo "asd|asd" | bat -l tsv
+echo "asd,asd" | bat 
+echo "asd,asd" | bat -l csv
+echo "asd,asd;as" | bat -l csv
+echo "asd,asd;asd|asd" | bat -l csv
+cd personal/projects/
+bat
+cd bat/
+ls target/
+ls target/debug/
+ls -ltr  target/debug/
+echo 'asd,asd'|  target/debug/bat
+echo 'asd,asd'|  target/debug/bat -l csv
+echo 'asd,asd|asd'|  target/debug/bat -l csv
+echo 'asd,asd\|asd'|  target/debug/bat -l csv
+nvim
+bash assets/create.sh
+ls -ltr target/bin
+ls -ltr target/debug/
+echo 'asd,asd;asd'|  target/debug/bat -l csv
+echo 'asd,asd;asd|'|  target/debug/bat -l csv
+echo 'asd,asd;asd|asd'  target/debug/bat -l csv
+echo 'asd,asd;asd|asd' |  target/debug/bat -l csv
+cd ..
+batcat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat
+target/debug/bat -l csv ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat 
+cd bat
+ls -ltr
+git restore .
+git checkout -b add-pipe-delimter-to-csv-syntax
+git add assets/syntaxes/02_Extra/CSV.sublime-syntax assets
+git commit -m "Adding pipe delimeter support for csv files"
+git diff assets/syntaxes/02_Extra/CSV.sublime-syntax
+nvim assets/syntaxes/02_Extra/CSV.sublime-syntax 
+cargo build --bins
+bash assets/create.sh 
+cargo test
+cargo install --path . --locked --force
+echo 'asd|1wqe|qwe' | target/debug/bat -l csv
+echo 'asd|1wqe|qwe' | batcat -l csv
+git status
+git push origin add-pipe-delimter-to-csv-syntax 
+echo 'asd|1wqe|qwe,asd;asd' | target/debug/bat -l csv
+echo 'asd|1wqe|qwe' | target/debug/bat -l csv
+echo 'asd|1wqe|qwe' | batcat -l csv
+git status
+git push origin add-pipe-delimter-to-csv-syntax 
+echo 'asd|1wqe|qwe,asd;asd' | target/debug/bat -l csv
+cd Downloads/
+batcat downloaded-logs-20241030-123115.json 
+cat downloaded-logs-20241030-123115.json | jq '.[] | .timestamp, .textPayload'
+cat downloaded-logs-20241030-123115.json | jq '.[] | \(.timestamp) \(.textPayload)'
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"'
+tail ~/tmp/xml_failures.txt | tr -d \" > ~/tmp/xml_failures.txt 
+cat downloaded-logs-20241030-153239.json | jq '.[] | .textPayload' > ~/tmp/xml_failures.txt
+cat ~/tmp/xml_failures.txt | tr -d " > ~/tmp/xml_failures.txt 
+cat ~/tmp/xml_failures.txt | tr -d \" > ~/tmp/xml_failures.txt 
+cat downloaded-logs-20241030-153239.json | jq '.[] | .textPayload' | tr -d '"' > ~/tmp/xml_failures.txt
+tail ~/tmp/xml_failures.txt 
+tail ~/tmp/xml_failures.txt | cut -d' ' 
+tail ~/tmp/xml_failures.txt | cut -d' ' -f7
+tail ~/tmp/xml_failures.txt | cut -d' ' -f8
+cat ~/tmp/xml_failures.txt | cut -d' ' -f8 | sort | uniq
+cat ~/tmp/xml_failures.txt | wc -l
+ls -ltr | tail
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | sort |uniq
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq 
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  | sort
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  -c
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  -c | sort
+tail ~/tmp/xml_failures.txt | tr -d \" > ~/tmp/xml_failures.txt 
+cat downloaded-logs-20241030-153239.json | jq '.[] | .textPayload' > ~/tmp/xml_failures.txt
+cat ~/tmp/xml_failures.txt | tr -d " > ~/tmp/xml_failures.txt 
+cat ~/tmp/xml_failures.txt | tr -d \" > ~/tmp/xml_failures.txt 
+cat downloaded-logs-20241030-153239.json | jq '.[] | .textPayload' | tr -d '"' > ~/tmp/xml_failures.txt
+tail ~/tmp/xml_failures.txt 
+tail ~/tmp/xml_failures.txt | cut -d' ' 
+tail ~/tmp/xml_failures.txt | cut -d' ' -f7
+tail ~/tmp/xml_failures.txt | cut -d' ' -f8
+cat ~/tmp/xml_failures.txt | cut -d' ' -f8 | sort | uniq
+cat ~/tmp/xml_failures.txt | wc -l
+ls -ltr | tail
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | sort |uniq
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq 
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  | sort
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  -c
+cat downloaded-logs-20241030-153702.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  -c | sort
+cd Downloads/
+cat msg_export_fw.txt | grep python3
+cat msg_export_fw.txt | grep job_name
+cat msg_export_fw.txt | cut -d: -f1
+cat msg_export_fw.txt | cut -d: -f1 | sort | uniq
+cat msg_export_fw.txt | grep py | cut -d: -f1 | sort | uniq
+cat msg_export_fw.txt | grep spch/WarehouseTransfer/python/WarehouseTransfer_SHP_EXE.py
+cat msg_export_fw.txt | grep -e "hrms-employeeworktimewbsaas-xml-bqtokafka|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-completedtrip-xml-bqtokafka|spch-gethazmatmaster-smartsort-xml-bqtokafka|spch-gettrailermovement-release-mawm-xml-bqtokafka|spch-trailermovement-request-mawm-xml-bqtokafka|spch-gettrailermovement-truckchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-mawm-xml-bqtokafka|spch-gettrailermovement-freightsmith-rdc-xml-bqtokafka|retl-retailstoreitemlocation-xml-export|spch-gettransportationstatus-cams-dispatchtrip-xml-bqtokafka|spch-getstoreorderadjustmnet-mawm-xml-bqtokafka|spch-getpurchaseorder-can-b2b-xml-bqtokafka|spch-getpurchaseorder-requisition-xml-bqtokafka|spch-shipmentschedule-oms-xml-bqtokafka"
+cat msg_export_fw.txt | grep hrms-employeeworktimewbsaas-xml-bqtokafka|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-completedtrip-xml-bqtokafka|spch-gethazmatmaster-smartsort-xml-bqtokafka|spch-gettrailermovement-release-mawm-xml-bqtokafka|spch-trailermovement-request-mawm-xml-bqtokafka|spch-gettrailermovement-truckchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-mawm-xml-bqtokafka|spch-gettrailermovement-freightsmith-rdc-xml-bqtokafka|retl-retailstoreitemlocation-xml-export|spch-gettransportationstatus-cams-dispatchtrip-xml-bqtokafka|spch-getstoreorderadjustmnet-mawm-xml-bqtokafka|spch-getpurchaseorder-can-b2b-xml-bqtokafka|spch-getpurchaseorder-requisition-xml-bqtokafka|spch-shipmentschedule-oms-xml-bqtokafka
+cat msg_export_fw.txt | grep "hrms-employeeworktimewbsaas-xml-bqtokafka|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-completedtrip-xml-bqtokafka|spch-gethazmatmaster-smartsort-xml-bqtokafka|spch-gettrailermovement-release-mawm-xml-bqtokafka|spch-trailermovement-request-mawm-xml-bqtokafka|spch-gettrailermovement-truckchkinchkout-pinc-xml-bqtokafka|spch-transportationstatus-mawm-xml-bqtokafka|spch-gettrailermovement-freightsmith-rdc-xml-bqtokafka|retl-retailstoreitemlocation-xml-export|spch-gettransportationstatus-cams-dispatchtrip-xml-bqtokafka|spch-getstoreorderadjustmnet-mawm-xml-bqtokafka|spch-getpurchaseorder-can-b2b-xml-bqtokafka|spch-getpurchaseorder-requisition-xml-bqtokafka|spch-shipmentschedule-oms-xml-bqtokafka"
+cat msg_export_fw.txt | grep "hrms-employeeworktimewbsaas-xml-bqtokafka"
+cat msg_export_fw.txt | grep "hrms-employeeworktimewbsaas-xml-bqtokafka|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka"
+cat msg_export_fw.txt | grep "hrms-employeeworktimewbsaas-xml-bqtokafka\|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka"
+cat msg_export_fw.txt | grep "hrms-employeeworktimewbsaas-xml-bqtokafka\|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka\|spch-transportationstatus-completedtrip-xml-bqtokafka\|spch-gethazmatmaster-smartsort-xml-bqtokafka\|spch-gettrailermovement-release-mawm-xml-bqtokafka\|spch-trailermovement-request-mawm-xml-bqtokafka\|spch-gettrailermovement-truckchkinchkout-pinc-xml-bqtokafka\|spch-transportationstatus-mawm-xml-bqtokafka\|spch-gettrailermovement-freightsmith-rdc-xml-bqtokafka\|retl-retailstoreitemlocation-xml-export\|spch-gettransportationstatus-cams-dispatchtrip-xml-bqtokafka\|spch-getstoreorderadjustmnet-mawm-xml-bqtokafka\|spch-getpurchaseorder-can-b2b-xml-bqtokafka\|spch-getpurchaseorder-requisition-xml-bqtokafka\|spch-shipmentschedule-oms-xml-bqtokafka"
+cat msg_export_fw.txt | grep -v "hrms-employeeworktimewbsaas-xml-bqtokafka\|spch-gettrailermovement-driverchkinchkout-pinc-xml-bqtokafka\|spch-transportationstatus-completedtrip-xml-bqtokafka\|spch-gethazmatmaster-smartsort-xml-bqtokafka\|spch-gettrailermovement-release-mawm-xml-bqtokafka\|spch-trailermovement-request-mawm-xml-bqtokafka\|spch-gettrailermovement-truckchkinchkout-pinc-xml-bqtokafka\|spch-transportationstatus-mawm-xml-bqtokafka\|spch-gettrailermovement-freightsmith-rdc-xml-bqtokafka\|retl-retailstoreitemlocation-xml-export\|spch-gettransportationstatus-cams-dispatchtrip-xml-bqtokafka\|spch-getstoreorderadjustmnet-mawm-xml-bqtokafka\|spch-getpurchaseorder-can-b2b-xml-bqtokafka\|spch-getpurchaseorder-requisition-xml-bqtokafka\|spch-shipmentschedule-oms-xml-bqtokafka"
+ls -ltr | tail 
+cat downloaded-logs-20241030-222053.json | wc -l
+tail downloaded-logs-20241030-222053.json 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | tr -d '"' | cut -d" " -f8 | sort |uniq  -c | sort
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | sort | uniq| head 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named .*" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named [a-z0-9-]+" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named [a-z0-9\-]+" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named [a-z0-9]+" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named [a-z0-9]*" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named [a-z0-9\-]*" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep "There is already active job named ([a-z0-9\-]*)" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep -oP "There is already active job named ([a-z0-9\-]*)" 
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload' | grep -oP "There is already active job named ([a-z0-9\-]*)" |
+less downloaded-logs-20241030-222053.json
+cat downloaded-logs-20241030-222053.json | jq '.[] | .textPayload .timestamp' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | ".timestamp .textPayload"' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | ".timestamp .textPayload"' | grep -oP "There is already active job named ([a-z0-9\-]*)" | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep -oP "There is already active job named ([a-z0-9\-]*)" | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named ([a-z0-9\-]*)" | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep "D" | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f1,9
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f1,9 | tr -d '"' | sort > xml_job_list_by_timestamp.txt
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | wc -l
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | wc -l
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' > xml_job_list_by_timestamp.txt 
+less xml_job_list_by_timestamp.txt 
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | wl -c
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | wc -l
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | tr -d '"" | head
+
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | tr -d '"' | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | tr -d '"' | sort | head -1
+man sort
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | tr -d '"' | sort -r | head -1
+man cut
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1,9 | Head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1,9 | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1,9 | tr -d '"' | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-10 | head
+cat downloaded-logs-20241030-225903.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | sort | uniq -c
+cat downloaded-logs-20241030-232021.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | sort | uniq -c
+ls -ltr | tail -2
+cat downloaded-logs-20241030-232144.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | sort | uniq -c
+cat downloaded-logs-20241030-225903.json downloaded-logs-20241030-232021.json downloaded-logs-20241030-232144.json > dataflow_job_failures.json
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f1,9 | td -d '"' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f1,9 | tr -d '"' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f9 | tr -d '"' | head
+cat downloaded-logs-20241030-123115.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f9 | tr -d '"' | sort | uniq -c
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  "There is already active job named [a-z0-9\-]*" | cut -d" " -f9 | tr -d '"' | sort | uniq -c
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  -oP "There is already active job named [a-z0-9\-]*" | cut -d" " -f9 | tr -d '"' | sort | uniq -c
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  -oP "There is already active job named [a-z0-9\-]*" | head 
+ls -ltr | tail -5
+cat downloaded-logs-20241030-225903.json downloaded-logs-20241030-232021.json downloaded-logs-20241030-232144.json downloaded-logs-20241030-233216.json > dataflow_job_failures.json
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  -oP "There is already active job named [a-z0-9\-]*" | cut -d" " -f7 | tr -d '"' | sort | uniq -c
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | sort | uniq -c
+ls -ltr | tail -10
+nvim msg_export_fw.txt
+less msg_export_fw.txt 
+cat msg_export_fw.txt | grep DriverChkInChkOut
+cat msg_export_fw.txt | grep command
+cat msg_export_fw.txt | grep command | cut -d":" -f1 | sort | uniq -c
+cat msg_export_fw.txt | grep command | cut -d":" -f1 | grep python | sort | uniq -c
+echo -e 'asd,asd;asd\tasd|SASD' |  -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l csv
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l tsv
+nvim assets/syntaxes/02_Extra/CSV.sublime-syntax 
+ls -ltr
+ls target
+echo -e 'asd,asd;asd\tasd|SASD' |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l tsv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat 
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl tsv | column -t -s $'\t' -o ' | '
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl tsv | column -t -s '\t' -o ' | '
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl 
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -l csv
+$ find . -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -l csv
+$ find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n'
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n'
+cd personal/projects/bat
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | target/debug/bat -l csv
+git statu
+git restore --staged CHANGELOG.md 
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | batcat -l csv
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | bat -l csv
+nvim
+vi 
+vim
+git status
+git diff CHANGELOG.md
+git add CHANGELOG.md 
+git commit -m "changelog updates"
+git push origin add-pipe-delimter-to-csv-syntax 
+git pull 
+git push -f origin add-pipe-delimter-to-csv-syntax 
+cd Downloads/
+ls -ltr | tail -l
+nvim sp_compare.py 
+mkdir ~/work/sp_compare
+mv sp_compare.py ~/work/sp_compare/
+cd ~/work/sp_compare/
+cd ..
+source .venv/bin/activate
+cd sp_compare/
+nvim  sp_compare.py 
+cd 
+cd personal/projects/
+ls 
+cd airflow/
+ls -ltr
+git status
+git log --oneline
+git log 
+nvim 
+tmux -a
+tmux a
+tmux
+cd ..
+cd sp_compare/
+nvim  sp_compare.py 
+cd 
+ls 
+cd airflow/
+git log --oneline
+git log 
+nvim 
+tmux -a
+tmux a
+tmux
+cd personal/projects/
+mkdir git-hooks
+echo mkdir git-hooks
+cd git-hooks
+touch sample.json
+nvim sample.json
+nano sample.json 
+uv venv
+source .venv/bin/activate
+git init
+pip install pre-commit
+uv pip install pre-commit
+pre-commit --version
+pre-commit sample-config
+pre-commit install 
+ls -lta
+touch .pre-commit-config.yaml
+pre-commit sample-config > .pre-commit-config.yaml
+pre-commit run --all-files
+ls -ltr
+git status
+git add sample.json 
+git commit -m "adding sample.json"
+bat sample.json 
+nvim .pre-commit-config.yaml 
+nvim sample.json 
+pre-commit try-repo ../pre-commit-validation-hook foo --verbose --all-files
+pre-commit autoupdate
+batcat /home/pratik/snap/alacritty/common/.cache/pre-commit/pre-commit.log
+less /home/pratik/snap/alacritty/common/.cache/pre-commit/pre-commit.log
+pre-commit try-repo ../pre-commit-validation-hook check-hardcoding --verbose --all-files
+ls -ltra
+#1730738089
+ls .config/
+#1730738115
+ls -ltr .config/sublime-text/Local/
+#1730738125
+less .config/sublime-text/Local/Session.sublime_session 
+#1730738220
+nvim .config/sublime-text/Local/Session.sublime_session 
+#1730738220
+nvim .config/sublime-text/Local/Session.sublime_session 
+#1730738424
+cd Downloads/
+#1730738425
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"'  | cut -d" " -f1 | cut -c1-11 | sort | uniq -c
+#1730738440
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  -oP "There is already active job named [a-z0-9\-]*" | cut -d" " -f7 | tr -d '"' | sort | uniq -c
+#1730738440
+cat dataflow_job_failures.json | jq '.[] | "\(.timestamp) \(.textPayload)"' | grep  -oP "There is already active job named [a-z0-9\-]*" | cut -d" " -f7 | tr -d '"' | sort | uniq -c
+#1731001218
+less history
+#1731001227
+history  | grep airflow-312
+#1731001238
+batcat history
+#1731001242
+history
+echo -e 'asd,asd;asd\tasd|SASD' |  batcat -l tsv
+nvim assets/syntaxes/02_Extra/CSV.sublime-syntax 
+ls target
+echo -e 'asd,asd;asd\tasd|SASD' |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l csv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat -l tsv
+cat ~/Downloads/FDFR_albOutPurchaseOrder20241022114500.dat | tail -5 |  ./target/debug/bat 
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl tsv | column -t -s $'\t' -o ' | '
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl tsv | column -t -s '\t' -o ' | '
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -fpl 
+$ find ./bat-master/ -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -l csv
+$ find . -maxdepth 1 -type f -printf '%p\t%s\t%m\t%i\t%Tc\n' | bat -l csv
+$ find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n'
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n'
+cd personal/projects/bat
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | target/debug/bat -l csv
+git statu
+git restore --staged CHANGELOG.md 
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | batcat -l csv
+find . -maxdepth 1 -type f -printf '%p|%s|%m|%i|%Tc\n' | bat -l csv
+nvim
+vi 
+vim
+git diff CHANGELOG.md
+git add CHANGELOG.md 
+git commit -m "changelog updates"
+git push origin add-pipe-delimter-to-csv-syntax 
+git pull 
+git push -f origin add-pipe-delimter-to-csv-syntax 
+cd Downloads/
+ls -ltr | tail -l
+nvim sp_compare.py 
+mkdir ~/work/sp_compare
+mv sp_compare.py ~/work/sp_compare/
+cd ~/work/sp_compare/
+cd ..
+cd sp_compare/
+nvim  sp_compare.py 
+cd 
+ls 
+cd airflow/
+git log --oneline
+git log 
+nvim 
+tmux -a
+tmux a
+cd personal/projects/
+ll
+mkdir pre-commit-validation-hook
+cd pre-commit-validation-hook
+git init
+ls
+touch check_hardcoding.py
+uv venv
+source .venv/bin/activate
+nvim check_hardcoding.py 
+git commit -m "adds hook to check for hardcodings"
+ls -ltr 
+touch .pre-commit-hooks.yaml
+git commit -m "adds pre commit hook config file"
+nvim .pre-commit-hooks.yaml
+git add .; git commit -m "updating entry point"
+ls -ltra
+nvim .pre-commit-hooks.yaml 
+nvim pyproject.toml
+git restore --staged pyproject.toml 
+git diff .pre-commit-hooks.yaml
+git add .pre-commit-hooks.yaml 
+git commit -m "Update the id and entry"
+bat pyproject.toml 
+setup.cfg
+touch setup.cfg
+nvim setup.cfg
+mkdir hooks
+mv check_hardcoding.py hooks/check_hardcoding.py
+rm pyproject.toml 
+ls hooks/
+git add check_hardcoding.py 
+git commit -m "moved to the hooks folder"
+git commit -m "removed pyproject.toml"
+git stauts
+git add setup.cfg 
+touch setup.py
+nvim ~#
+nvim setup.
+rm setup.
+git add setup.py 
+git commit -m "adds setup.py"
+vi setup.
+vi setup.cfg 
+rm setup.py  setup.cfg 
+touch pyproject.toml
+touch hooks/__init__.py
+fg
+ls -ltr
+git add setup.cfg  setup.py 
+git commit -m "removed the setup files"
+git commit -m "adds pyproject.toml"
+git add hooks/
+git status 
+git commit -m "moveed to hooks folder"
+nvim pyproject.toml 
+git add pyproject.toml 
+git commit -m "update the name as per standards"
+git status
+git add hooks/check_hardcoding.py 
+git commit -m "add multiline flag for re" 
+vi hooks/check_hardcoding.py 
+tmux
+#1731001072
+cd ../airflow/
+#1731001074
+ls -ltr
+#1731001092
+zsh
+tmux a
+tmux
+ls -ltra
+ls hooks/
+ls -ltr
+cp hooks/check_hardcoding.py hooks/check_filename_same_as_sp_name.py
+nvim
+#1730670739
+batcat /home/pratik/snap/alacritty/common/.cache/pre-commit/pre-commit.log
+#1730670739
+less /home/pratik/snap/alacritty/common/.cache/pre-commit/pre-commit.log
+#1730670739
+pre-commit try-repo ../pre-commit-validation-hook check-hardcoding --verbose --all-files
+#1730670739
+ls -ltra
+#1730670754
+git diff pyproject.toml
+#1730670757
+q!
+#1730670769
+git add hooks/check_airflowignore.py 
+#1730670782
+git diff .pre-commit-hooks.yaml
+#1730670789
+git add .pre-commit-hooks.yaml 
+#1730670793
+git add pyproject.toml 
+#1730670801
+git diff hooks/check_
+#1730670804
+git diff hooks/check_hardcoding.py
+#1730670810
+git status
+#1730670828
+git commit -m "Adds hook to check if airflowignore is present" kk
+#1730670934
+identify-cli
+#1730706734
+nvim ~/.bashrc
+#1730706882
+source ~/.bashrc
+#1730706892
+ls -ltr
+#1730706895
+history 
+#1730706925
+nvim ~/.bash_history 
+#1730707396
+zsh
+gunzip <  external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz > tmp
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz | batcat
+gunzip external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+ls -ltr | tail -3
+gunzip FDFR_albOutPurchaseOrder20241022123000.dat.gz
+batcat
+git push origin fix-update-recency-column
+git checkout -b update-db-cleanup-tests
+nvim 
+git checkout fix-update-recency-column 
+git branch --delete update-db-cleanup-tests 
+git checkout -b update-db-cleanup-tests fix-update-recency-column 
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+git status
+ls 
+ls
+cd .
+cd ..
+cd airflow/
+ls -ltr
+nvim
+git add CHANGELOG.md 
+git commit -m "changelog updates"
+git push origin add-pipe-delimter-to-csv-syntax 
+git pull 
+git push -f origin add-pipe-delimter-to-csv-syntax 
+cd Downloads/
+ls -ltr | tail -l
+nvim sp_compare.py 
+mkdir ~/work/sp_compare
+mv sp_compare.py ~/work/sp_compare/
+cd ~/work/sp_compare/
+cd ..
+cd sp_compare/
+nvim  sp_compare.py 
+cd 
+cd personal/projects/
+ls 
+cd airflow/
+git log --oneline
+git log 
+nvim 
+tmux -a
+tmux a
+tmux
+cd ../git-hooks/
+source .venv/bin/activate
+touch sample.py
+pre-commit try-repo ../pre-commit-validation-hook check-hardcoding --verbose --all-files
+pre-commit try-repo ../pre-commit-validation-hook check-hardcoding check-airflowignore --verbose --all-files
+ls ltr
+mkdir python
+touch python/sample2.py
+git add sample.py python/sample2.py 
+ls -ltr
+mkdir bod
+mkdir -p bod/python
+touch bod/python/sample3.py
+git add bod/
+git status
+[A
+tree
+rm python/sample2.py 
+rmdir python/
+touch bod/.airflowignore
+pre-commit try-repo ../pre-commit-validation-hook check-airflowignore --verbose --all-files
+zsh
+man rofi
+zip -r z.zip tmp nex extensions
+zip -r z.zip tmp extensions
+man zip
+zip -sf z.zip 
+zip -l z.zip 
+exit
+cd Downloads/
+cat dag_list.json | jq '.select(.has_file_operation == true)'
+cat dag_list.json | jq '.select(.has_file_operation == "true")'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == "true")'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true)'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true | .dag_name)'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | wc -l
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr \"
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr '"'
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr 
+man tr
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \"
+cat dag_list.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+cat dag_list 1.json | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+cat "dag_list 1.json" | jq -c '.[] | select(.has_file_operation == true) | .dag_name' | tr -d \" | sort
+ls -ltr | tail 
+cat bquxjob_165efda1_19292254afe.csv | xclip -sel clip
+(type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) 	&& sudo mkdir -p -m 755 /etc/apt/keyrings 	&& wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null 	&& sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg 	&& echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null 	&& sudo apt update 	&& sudo apt install gh -y
+man gh
+cd Downloads/
+ls -ltr |tail
+cat bquxjob_3a62c0a7_192925f2ccf.csv | xclip -sel clip
+man git
+man git-fetch
+man git-tag
+man git-commit
+man git-checkout
+man git-add
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+man rofi
+man git-checkout
+man git-add
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+rofi man
+man rofi-run
+nvim ~/bin/rofi-run 
+/bin/python /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/printEnvVariablesToFile.py /home/pratik/.vscode/extensions/ms-python.python-2024.16.1-linux-x64/python_files/deactivate/bash/envVars.txt
+rofi man
+man rofi-run
+nvim ~/bin/rofi-run 
+cd Downloads/
+gzip -d external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022111500.dat.gz
+ls -ltr | tail -5
+alacritty migrate
+gzip -d external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+gunzip <  external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz > tmp
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+zcat external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz | batcat
+gunzip external_udco-spch_inbound_PurchaseOrder_FAR_corrupt_files_FDFR_albOutPurchaseOrder20241022123000.dat.gz
+ls -ltr | tail -3
+gunzip FDFR_albOutPurchaseOrder20241022123000.dat.gz
+batcat
+git rebase origin/mainq!
+git push origin master --force
+git push origin main --force
+git checkout fix-update-recency-column
+git log 
+git diff
+git log --oneline
+git diff 1dfd1f72bf
+git diff 5259f63dd0
+git log --oneline | head 5
+git log --oneline | head -5
+git digg 1dfd1f72
+git diff 1dfd1f72
+git diff 5259f63d
+zsh
+git rebase --continue
+source "/home/pratik/.local/share/hatch/env/virtual/apache-airflow/lGCtOum7/airflow-312/bin/activate"
+pytest tests/utils/test_db_cleanup.py \
+pytest tests/utils/test_db_cleanup.py 
+ls tests/utils/test_db_cleanup.py
+hatch python update
+hatch python update airflow-312
+hatch env show
+hatch env -h
+hatch -h
+hatch python -h
+hatch python show
+hatch python update -h
+hatch python update all
+pip install -e ".[devel]"
+ls providers/src
+pip install -e .
+git stash save "capture sql statements"
+git rebase origin/main [A
+ls airflow/provider
+ls providers/src/airflow/providers/
+ls providers/src/airflow/providers/standard/
+ls providers/src/airflow/providers/standard/hooks/
+rm -rf airflow/provider
+rm -rf airflow/providers
+git checkout -
+git log
+git fetch upstream
+git rebase upstream/main
+git checkout main
+git reset --hard origin/main
+git checkout - 
+git checkout update-db-cleanup-tests 
+git stauts
+git status
+cd..
+cd airflow;pytest tests/utils/test_db_cleanup.py 
+ls airflow/providers
+ls providers
+ls providers/
+ls providers/src/
+ls providers/src/airflow/
+cd providers/src/
+rm -rf airflow/providers/
+cd ../..
+pytest tests/utils/test_db_cleanup.py -k 'test__build_query'
+cd providers
+cd ../../..
+ls
+cd projects/
+ls 
+cd airflow/
+cd ..
+rm -rf airflow/
+git clone https://github.com/pratik-m/airflow.git 
+cd airflow
+ls -ltr
+ls airflow/providers_manager.py 
+nvim  airflow/providers_manager.py 
+nvim tests_common/pytest_plugin.py 
+echo $AIRFLOW_SOURCES
+fg
+pipx install -e ./dev/breeze
+nvim
+pwd
+pip install -e ./providers
+pytest tests/utils/test_db_cleanup.py
+#1731429515
+cd /usr/share/gnome-shell/extensions/
+#1731429524
+sudo mv ubuntu-dock@ubuntu.com{,.bak}
+#1731394749
+tldr tmux
+#1731394755
+tmux new -s notes
+#1731394782
+nvim ~/.config/nvim/
+#1731395027
+nvim
+#1731395075
+nvim ~/Obsedian/work/
+#1731430454
+tldr tmux
+#1731430457
+tmux ls
+#1731482380
+cd Downloads/
+#1731482407
+ls -ltr | tail 
+#1731482417
+sudo apt install nordvpn-release_1.0.0_all.deb
+#1731482426
+sudo apt install "nordvpn-release_1.0.0_all.deb"
+#1731482448
+sudo apt install "nordvpn-release.deb"
+#1731482453
+sudo apt install nordvpn-release.deb
+#1731482461
+sudo apt install ./nordvpn-release.deb
+#1731482538
+[200~sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)~
+#1731482553
+sh <(curl -sSf https://downloads.nordcdn.com/apps/linux/install.sh)
+#1731482612
+zsh
+#1731430457
+tmux ls
+#1731437110
+cd personal/projects/airflow/
+#1731437112
+nvim
+#1731437242
+git checkout v2-7-stable
+#1731437249
+git checkout -b v2-7-stable
+#1731437255
+git checkout - 
+#1731437261
+git branch -a
+#1731437267
+git branch -r
+#1731437269
+git branch 
+#1731437289
+git fetch
+#1731437290
+zsh
+#1731521455
+sudo apt remove nordvpn-release 
+#1731522245
+htop
+#1731655038
+exit
+#1731657727
+ls 
+#1731657738
+ls work/tools/
+#1731657757
+mkdir -p  work/tools/scripts
+#1731657762
+cd $!
+#1731657765
+cd $_
+#1731657769
+echo $_
+#1731657778
+cd work/tools/scripts
+#1731657783
+uv venv
+#1731657790
+source .venv/bin/activate
+#1731657805
+touch drain_dataflow_jobs.py
+#1731657808
+nvim
+#1731706595
+vi ~/.bash_aliases 
+#1731706609
+cat drain_dataflow_jobs.py | clipb 
+#1731998297
+man sample
+#1732175438
+ping 114.143.140.30
+#1732127445
+ts=$(date +%Y%m%d%H%M%S)
+#1732127449
+echo $ts
+#1732127449
+echo $ts
+#1732391595
+ps aux | grep text
+#1732391601
+ps aux | grep texted
+#1732391615
+pkill -9 284202
+#1732391625
+ps aux | grep editor
+#1732391635
+kill -9 284202
+#1732438765
+exit
+#1732438795
+exit
+#1731657808
+nvim
+#1731706595
+vi ~/.bash_aliases 
+#1731706609
+cat drain_dataflow_jobs.py | clipb 
+#1731958926
+sh -x airflow_variable_connections_export.sh 
+#1731959043
+sh airflow_variable_connections_export.sh 
+#1731999790
+cat drain_dataflow_jobs.py | sample
+#1731999799
+sample
+#1731999802
+man sample
+#1732141163
+cd Dow
+#1732141167
+cd ~/Downloads/
+#1732141168
+ls -ltr
+#1732141178
+zcat Kafka-Automation-11-20.zip
+#1732175515
+clear
+#1732175517
+telnet
+#1732175540
+telnet 114.143.140.30 143
+#1732175617
+openssl s_client -crlf -connect 114.143.140.30:993
+#1732175762
+openssl s_client -showcerts -connect pme.m-techindia.com:993 -servername pme.m-techindia.com
+#1732438796
+openssl s_client -showcerts -connect pme.m-techindia.com:993 -servername pme.m-techindia.comexit
+#1732438799
+exit
+#1731958903
+ls -ltr
+#1731958905
+nvim airflow_variable_connections_export.sh 
+#1732438802
+exit
+#1732175438
+ping 114.143.140.30
+#1732127445
+ts=$(date +%Y%m%d%H%M%S)
+#1732127449
+echo $ts
+#1732305125
+cd ~/Downloads/
+#1732305126
+ls -ltr
+#1732305141
+cat downloaded-logs-20241122-115145.json | jq '.[] |
+#1732305216
+cat downloaded-logs-20241122-115145.json | jq '.[] | "\(.timestamp) \(.textPayload) \(.labels.dataflow.googleapis.com/job_name)"'
+#1732305241
+cat downloaded-logs-20241122-115145.json | jq '.[] | "\(.timestamp) \(.textPayload) \(.labels.job_name)"'
+#1732305338
+cat downloaded-logs-20241122-115145.json | jq '.[] | "\(.textPayload)"' | sort | uniq -c
+#1732305356
+cat downloaded-logs-20241122-115145.json | jq '.[] | "\(.textPayload)"' | sort | uniq -c | grep -v "Timeout"
+#1732305481
+cat downloaded-logs-20241122-115145.json | jq '.[] | \(.textPayload)' | sort | uniq -c | grep -v "Timeout"
+#1732305500
+cat downloaded-logs-20241122-115145.json | jq '.[] | .textPayload' | sort | uniq -c | grep -v "Timeout"
+#1732305524
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name" .textPayload' 
+#1732305542
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name" \(.textPayload)' 
+#1732305603
+cat downloaded-logs-20241122-115145.json | jq .[] | jq '\(.labels."dataflow.googleapis.com/job_name") \(.textPayload)' 
+#1732305666
+cat downloaded-logs-20241122-115145.json | jq .[] | jq '\(.labels."dataflow.googleapis.com/job_name")'
+#1732305678
+cat downloaded-logs-20241122-115145.json | jq '.[] | \(.labels."dataflow.googleapis.com/job_name")'
+#1732305701
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"' 
+#1732305709
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"'  | sort | uniq -c
+#1732305769
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name" | .textPayload'  
+#1732305890
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name",  .textPayload'  
+#1732305916
+cat downloaded-logs-20241122-115145.json | jq '.[] | .labels."dataflow.googleapis.com/job_name",  .textPayload, .jsonPayload.message'  
+#1732305997
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", txt_payload: .textPayload, json_payload: .jsonPayload.message} ]'  
+#1732306019
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' > vision_pro_failure_logs.json
+#1732306142
+cat vision_pro_failure_logs.json |  jq '.[] | \(.txt_payload).\(.json_payload)'
+#1732306154
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.txt_payload).\(.json_payload)"'
+#1732306184
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.txt_payload).\(.json_payload)"' | cut -c1000 
+#1732306190
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732306211
+cat vision_pro_failure_logs.json |  jq '.[] | "\.(job_name) \(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732306228
+cat vision_pro_failure_logs.json |  jq '.[] | "\.(job_name)-\(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732306238
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name) \(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732306250
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)~~\(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732306269
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)~~\(.txt_payload).\(.json_payload)"' | cut -c
+#1732306304
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)~~\(.txt_payload).\(.json_payload)"' | cut -c-1000  > vision_pro_failures_logs.csv
+#1732307486
+nvim vision_pro_failure_logs.json 
+#1732307501
+nvim downloaded-logs-20241122-115145.json
+#1732307630
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' > vision_pro_failure_logs.json
+#1732307634
+cat vision_pro_failure_logs.json 
+#1732307640
+q!
+#1732307671
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000  > vision_pro_failures_logs.csv
+#1732307728
+cat vision_pro_failures_logs1.csv | less
+#1732307754
+cat vision_pro_failures_logs1.csv | tr '$"' '' | tr '"^' '' | head
+#1732307829
+cat vision_pro_failures_logs1.csv | td '"$' | t '^"'  | head
+#1732307845
+cat vision_pro_failures_logs1.csv | tr -d '"$' | tr -d '^"'  | head
+#1732307884
+cat vision_pro_failures_logs1.csv | tr -d -c '"$' | tr -c -d '^"'  | head
+#1732307932
+cat vision_pro_failures_logs1.csv | tr -d '"' | head -1
+#1732308137
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed "s/\-\d+\^/\^/g" | head -1
+#1732308159
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed "s/-[0-9]+\^/\^/g" | head -1
+#1732308201
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed "s/\-[0-9]+\^/\^/g" | head -1
+#1732308217
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed "s/\-[0-9]+\^/=/g" | head -1
+#1732308250
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed -e "s/\-[0-9]+\^/\^/g" | head -1
+#1732308269
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed -e "s/*\-[0-9]+\^*/\^/g" | head -1
+#1732308290
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g" | head -1
+#1732308308
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g" | > cat vision_pro_failures_logs1.csv 
+#1732308313
+cat vision_pro_failures_logs1.csv | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g" | > vision_pro_failures_logs1.csv 
+#1732308328
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000  > vision_pro_failures_logs1.csv 
+#1732308446
+cat vision_pro_failure_logs.json |  jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g"  > vision_pro_failures_logs1.csv 
+#1732317156
+python 
+#1732326636
+history 
+#1732326702
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' |  jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g"  > vision_pro_failures_logs1.csv
+#1732326712
+nvim vision_pro_failures_logs1.csv
+#1732438807
+exit
+#1731657805
+touch drain_dataflow_jobs.py
+#1731657808
+nvim
+#1731706595
+vi ~/.bash_aliases 
+#1731706609
+cat drain_dataflow_jobs.py | clipb 
+#1731840534
+cd Downloads/
+#1731840536
+ls -ltr |tail 
+#1731840606
+cat downloaded-logs-20241117-024847.json | jq '.labels.dataflow.googleapis.com/job_name'
+#1731840611
+cat downloaded-logs-20241117-024847.json | jq '."labels.dataflow.googleapis.com/job_name"'
+#1731840650
+cat downloaded-logs-20241117-024847.json | jq '.[] | "labels.dataflow.googleapis.com/job_name"'
+#1731840681
+cat downloaded-logs-20241117-024847.json | jq '.[] | "\(.labels.dataflow.googleapis.com/job_name)"'
+#1731840689
+cat downloaded-logs-20241117-024847.json | jq '.[] | ".labels.dataflow.googleapis.com/job_name"'
+#1731840701
+cat downloaded-logs-20241117-024847.json | jq '.[] | "(.labels.dataflow.googleapis.com/job_name)"'
+#1731840717
+cat downloaded-logs-20241117-024847.json | jq '.[] | (."labels.dataflow.googleapis.com/job_name")'
+#1731840758
+cat downloaded-logs-20241117-024847.json | jq '.[] | labels'
+#1731840762
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels'
+#1731840776
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels.dataflow.googleapis.com/job_name'
+#1731840782
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"'
+#1731840787
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"' | sort | uniq - c
+#1731840789
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"' | sort | uniq -c
+#1731840827
+cat downloaded-logs-20241117-024847.json | jq '.[] | .labels."dataflow.googleapis.com/job_name"' | sort | uniq -c | sort
+#1731841160
+vi  downloaded-logs-20241117-024847.json 
+#1731952729
+clear
+#1731956500
+cp ~/z.zip .
+#1731956503
+ls -ltr |tail
+#1731958801
+cd ~/work/
+#1731958804
+cd tools/
+#1731958807
+cd scripts/
+#1731958808
+ls -ltr
+#1731958820
+touch airflow_variable_connections_export.sh
+#1731958824
+nvim airflow_variable_connections_export.sh
+#1731958868
+sh airflow_variable_connections_export.sh
+#1731958884
+tmux
+#1732438808
+exit
+#1731958884
+tmux
+#1732578696
+ls -ltr 
+#1732578699
+ls -ltr  | column -t
+#1732578704
+man column
+#1732578733
+cat dataflow_jobs_info.csv 
+#1732578737
+q!
+#1732578741
+batcat dataflow_jobs_info.csv 
+#1732578753
+ls
+#1732578755
+ls -ltr
+#1732578761
+nvim bquxjob_27092227_1931e64792f.csv 
+#1732578773
+batcat bquxjob_27092227_1931e64792f.csv 
+#1732638344
+exit
+#1732638344
+exit
+#1732774750
+tldr xargs
+#1732774805
+man xargs
+#1732774821
+man xargs | batcat
+#1732774826
+batcat man xargs
+#1732774839
+vi ~/.bash_aliases 
+#1732774889
+zsh
+#1732935953
+exit
+#1732870075
+cd ~/Downloads/
+#1732870077
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g"  > vision_pro_failures_logs1.csv
+#1732870088
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g"  
+#1732870098
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' 
+#1732870140
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)\t\(.log_name)\t\(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1732870150
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)\\t\(.log_name)\\t\(.txt_payload).\(.json_payload)"' | cut -c-1000 
+#1733000006
+clear
+#1733000008
+zsh
+#1733000171
+exit
+#1733000175
+exit
+#1733000179
+exit
+#1733000008
+zsh
+#1733000200
+sudo chsh -s $(which zsh) $USER
+#1733000206
+echo $SHELL
+#1733000207
+exit
+#1733000200
+sudo chsh -s $(which zsh) $USER
+#1733000212
+echo $SHELL
+#1733036749
+atuin register -u munotpratik2009 -e munotpratik2009@gmail.com
+#1733036768
+atuin -h
+#1733036773
+atuin
+#1733036786
+curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+#1733036837
+exit
+#1733036844
+atuin 
+#1733036875
+atuin register -u munotpratik2009 -e munotpratik2009@gmail.com
+#1733036890
+atuin import auto
+#1733036896
+atuin sync
+#1733037155
+atuin import zsh
+#1733206587
+zsh
+#1733206993
+chsh -s $(which zsh)
+#1733207002
+echo $SHELL
+#1733207009
+which zsh
+#1733207049
+exit
+#1733207009
+which zsh
+#1733207097
+chsh -l
+#1733207117
+chsh 
+#1733207135
+echo $SHELL
+#1733207137
+exit
+#1733207137
+exit
+#1733207142
+echo $SHELL
+#1733207947
+which zsh
+#1733207965
+man chsh
+#1733207996
+cat /etc/shells 
+#1733208017
+vi /etc/shells 
+#1733208041
+sudo vi /etc/shells 
+#1733208072
+chsh -s $(which  zsh)
+#1733208098
+echo $SHELL
+#1733208103
+tldr chsh
+#1733208114
+chsh --list-shells
+#1733208123
+chsh -s 
+#1733208133
+chsh --shell zsh
+#1733208157
+chsh --shell $(which zsh)
+#1734474697
+tldr
+#1734474712
+tldr z
+#1734474729
+clear
+#1734476997
+exit
+#1734474729
+clear
+#1734477102
+which tldr
+#1734477134
+sleep 10;alert;
+#1734477148
+alert
+#1734477153
+vi ~/.bashrc
+#1734477188
+notify-send "asd" "asd"
+#1734477385
+exit
+#1734477385
+exit
+#1735410613
+man autin
+#1735410616
+autin
+#1735410633
+atuin stats
+#1735410710
+atuin-upgrade
+#1735410715
+atuin-update 
+#1735410729
+atuin
+#1735410745
+sudo apt-get install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev xdg-desktop-portal-wlr libtomlplusplus3
+#1735410751
+atun wrapped
+#1735410759
+atuin wrapped
+#1735410798
+zsh
+#1735410759
+atuin wrapped
+#1735973640
+ls -ltr
+#1735973646
+bash_script_path.sh
+#1735973657
+nvim bash_script_path.sh
+#1735973679
+sh bash_script_path.sh
+#1735973693
+sh -x bash_script_path.sh
+#1735973727
+echo $BASH_SOURCE
+#1735973742
+cd 
+#1735973754
+sh -x personal/projects/scripts/bash_script_path.sh 
+#1735973873
+batcat  ~/personal/projects/scripts/bash_script_path.sh 
+#1735973894
+nvim  ~/personal/projects/scripts/bash_script_path.sh 
+#1735977767
+clear 
+#1735977781
+zsh
+#1735410745
+sudo apt-get install -y meson wget build-essential ninja-build cmake-extras cmake gettext gettext-base fontconfig libfontconfig-dev libffi-dev libxml2-dev libdrm-dev libxkbcommon-x11-dev libxkbregistry-dev libxkbcommon-dev libpixman-1-dev libudev-dev libseat-dev seatd libxcb-dri3-dev libegl-dev libgles2 libegl1-mesa-dev glslang-tools libinput-bin libinput-dev libxcb-composite0-dev libavutil-dev libavcodec-dev libavformat-dev libxcb-ewmh2 libxcb-ewmh-dev libxcb-present-dev libxcb-icccm4-dev libxcb-render-util0-dev libxcb-res0-dev libxcb-xinput-dev xdg-desktop-portal-wlr libtomlplusplus3
+#1735410751
+atun wrapped
+#1735410759
+atuin wrapped
+#1735410798
+zsh
+#1735973789
+sh -x ~/personal/projects/scripts/bash_script_path.sh 
+#1735979842
+python
+#1735980040
+cd ~/personal/projects/
+#1735980045
+cd git-bq-stored-procedure-compare/
+#1735980048
+cd src
+#1735980471
+cat downloaded-logs-20241122-115145.json | jq '[ .[] | {job_name: .labels."dataflow.googleapis.com/job_name", log_name: .logName, txt_payload: .textPayload, json_payload: .jsonPayload.message} ]' | jq '.[] | "\(.job_name)^\(.log_name)^\(.txt_payload).\(.json_payload)"' | cut -c-1000 | tr -d '"' | sed -r "s/\-[0-9]+\^/\^/g"   > temp.csv
+#1735980947
+ls /tmp
+#1735981050
+ls /tmp/tmpn8r4f13r/
+#1735982279
+python main.py 
+#1736121604
+cd ../../advent-of-code-2024/day1/
+#1736121605
+ls
+#1736122569
+mkdir day1
+#1736122572
+python day1.py 
+#1736123918
+cd ../day
+#1736123924
+cd ../day2
+#1736123928
+python day2.py 
+#1744092463
+mkdir -p bq_optimizer/src bq_optimizer/tests bq_optimizer/docs
+#1744092554
+cd ~ && mkdir -p bq_optimizer/src bq_optimizer/tests bq_optimizer/docs
+#1744094111
+mkdir -p src/collectors src/analyzers src/optimizers src/utils src/models src/config
+#1744135852
+mkdir -p data_pipeline_monitor/{src,tests,data} && cd data_pipeline_monitor
